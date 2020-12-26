@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Diana\\GrpProject\\GrpProject\\GrpProject.csproj": {}
+    "/Users/jordan/Desktop/projects/Practice-Project-Repo1/GrpProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Diana\\GrpProject\\GrpProject\\GrpProject.csproj": {
+    "/Users/jordan/Desktop/projects/Practice-Project-Repo1/GrpProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Diana\\GrpProject\\GrpProject\\GrpProject.csproj",
+        "projectUniqueName": "/Users/jordan/Desktop/projects/Practice-Project-Repo1/GrpProject.csproj",
         "projectName": "GrpProject",
-        "projectPath": "C:\\Users\\Diana\\GrpProject\\GrpProject\\GrpProject.csproj",
-        "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Diana\\GrpProject\\GrpProject\\obj\\",
+        "projectPath": "/Users/jordan/Desktop/projects/Practice-Project-Repo1/GrpProject.csproj",
+        "packagesPath": "/Users/jordan/.nuget/packages/",
+        "outputPath": "/Users/jordan/Desktop/projects/Practice-Project-Repo1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/jordan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
