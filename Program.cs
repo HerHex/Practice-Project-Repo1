@@ -12,7 +12,10 @@ namespace GrpProject
             Console.WriteLine("Aleksander commited");
 
             //Experiment
-            Console.WriteLine("Experiment thing");
+            Console.WriteLine("Experiment thing");   
+
+            //Ex 2
+            Console.WriteLine("Sashos Try");
         }
     }
 }
