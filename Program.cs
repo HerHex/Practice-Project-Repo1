@@ -10,6 +10,9 @@ namespace GrpProject
             Console.WriteLine("Aleks commited");
             Console.WriteLine("Commit againnn");
             Console.WriteLine("Aleksander commited");
+
+            //Experiment
+            Console.WriteLine("Experiment thing");
         }
     }
 }
