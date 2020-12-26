@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/jordan/.nuget/packages/": {}
+    "C:\\Users\\Frostrion\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jordan/Desktop/projects/Practice-Project-Repo1/GrpProject.csproj",
+      "projectUniqueName": "C:\\Users\\Frostrion\\Desktop\\Create with Code-Al\\Practice\\Practice-Project-Repo1\\GrpProject.csproj",
       "projectName": "GrpProject",
-      "projectPath": "/Users/jordan/Desktop/projects/Practice-Project-Repo1/GrpProject.csproj",
-      "packagesPath": "/Users/jordan/.nuget/packages/",
-      "outputPath": "/Users/jordan/Desktop/projects/Practice-Project-Repo1/obj/",
+      "projectPath": "C:\\Users\\Frostrion\\Desktop\\Create with Code-Al\\Practice\\Practice-Project-Repo1\\GrpProject.csproj",
+      "packagesPath": "C:\\Users\\Frostrion\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Frostrion\\Desktop\\Create with Code-Al\\Practice\\Practice-Project-Repo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jordan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Frostrion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
