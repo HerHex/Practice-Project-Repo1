@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Diana\\.nuget\\packages\\": {}
+    "C:\\Users\\Frostrion\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diana\\GrpProject\\GrpProject\\GrpProject.csproj",
+      "projectUniqueName": "C:\\Users\\Frostrion\\Desktop\\Create with Code-Al\\Practice-Project-Repo1\\GrpProject.csproj",
       "projectName": "GrpProject",
-      "projectPath": "C:\\Users\\Diana\\GrpProject\\GrpProject\\GrpProject.csproj",
-      "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diana\\GrpProject\\GrpProject\\obj\\",
+      "projectPath": "C:\\Users\\Frostrion\\Desktop\\Create with Code-Al\\Practice-Project-Repo1\\GrpProject.csproj",
+      "packagesPath": "C:\\Users\\Frostrion\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Frostrion\\Desktop\\Create with Code-Al\\Practice-Project-Repo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Diana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Frostrion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
