@@ -8,6 +8,7 @@ namespace GrpProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Aleks commited");
+            Console.WriteLine("Commit againnn");
         }
     }
 }
